@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Emad-Nastaliq";
+  src: url(https://cdn.jsdelivr.net/npm/Emad-Nastaliq/fonts/Emad-Nastaliq.woff2) format('woff2'),
+       url(https://unpkg.com/Emad-Nastaliq/fonts/Emad-Nastaliq.woff2) format('woff2');
+}
+  /* CSS Aplly */
+body {
+    font-family: "Emad-Nastaliq";
+}
+.post-title {
+  font-family: "Emad-Nastaliq", "JameelNooriNastaliq", "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+}
+
+.post-body {
+      font-family: "Emad-Nastaliq", "JameelNooriNastaliq", "Mehr", "Nafees", "UrduKhushKhatiBook", "Jameel Khushkhat-LK", "Gulzar", "Noto Nastaliq Urdu", "Amiri";
+}   
+
